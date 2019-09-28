@@ -17,7 +17,7 @@ export const TETROMINOS = {
         ],
         color: '36, 95, 223',
     } , 
-    0: {
+    O: {
         shape:[
             ['O', 'O' ],
             ['O', 'O' ]
